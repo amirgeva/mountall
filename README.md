@@ -34,7 +34,8 @@ C:\Users\<your user name here>\AppData\Roaming\Microsoft\Windows\Start Menu\Prog
 # Configuration
 
 Each drive has one line composed of:
-<IP Pattern>  <Drive>  <Path>  [User] [PasswordName]
+
+&lt;IP Pattern&gt;  &lt;Drive&gt;  &lt;Path&gt;  [User] [PasswordName]
 
 
 If the current IP has a substring that matches the pattern, the drive will be mounted.
