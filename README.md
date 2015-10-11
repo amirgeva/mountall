@@ -29,7 +29,10 @@ Extract anywhere, edit the configuration file to your needs
 and run at startup.
 
 Create a shortcut at:
-C:\Users\<your user name here>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+C:\Users\Your_User_Name_Here\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+with a parameter that points to the configuration file path.
 
 # Configuration
 
